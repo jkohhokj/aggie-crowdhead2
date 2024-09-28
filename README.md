@@ -57,10 +57,7 @@ You try pre-built designs by changing the imports for the config and content in 
 
 # **Authors**
 
-Connect with us on X or LinkedIn.
-
-Lorant Toth: [X](https://x.com/lorant_one), [LinkedIn](https://www.linkedin.com/in/tothlorant/)  
-Zsofia Komaromi: [X](https://x.com/zsofiakomaromi), [LinkedIn](https://www.linkedin.com/in/zsofiakomaromi/)
+Jayden Koh
 
 # **Get involved**
 
